@@ -3,7 +3,7 @@
 # *Project Name:* 
 # Zomato Restaurant Data Analysis
 # *Made By:* 
-# Prashant, Singh Keshv, Aditya Prajapati
+# Prashant, Singh Keshav, Aditya Prajapati
 # *Purpose of Project:*
 # The main objective of this project is to analyze the data of restaurants listed on Zomato.
 # Through this we want to understand:
